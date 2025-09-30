@@ -6,7 +6,7 @@
     <title>Document</title>
 </head>
 <body>
-    <H1>Selamat Datang Di Halaman Utama</H1>
+    <!-- <H1>Selamat Datang Di Halaman Utama</H1> -->
 
   <table border="1">
     <caption>Daftar Barang</caption>
